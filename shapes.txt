@@ -1,0 +1,2 @@
+Clipping line Black 166 121 521 334 292 65 376 412 
+Clipping line Black 166 121 521 334 630 229 111 226 
